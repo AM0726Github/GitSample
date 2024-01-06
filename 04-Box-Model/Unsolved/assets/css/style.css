@@ -1,4 +1,4 @@
-section {
+#box {
   width: 600px;
   height: 600px;
   text-align: center;
@@ -10,6 +10,9 @@ img {
   height: 200px;
   background-color: lightblue;
   /* TODO: Add a margin property */
+  margin: 29px;
   /* TODO: Add a padding property */
+  padding: 15px;
   /* TODO: Add a border property */
+  border: 5px solid blue;
 }
