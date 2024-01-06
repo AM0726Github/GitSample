@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* Sellecting all elements of Html document and adding new font family */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* adding new background collor to html document body section */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* This is class sellector */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* This is id sellector */
 #contact-section {
   background-color: #f0ead6;
 }
